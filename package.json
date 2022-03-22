@@ -4,8 +4,7 @@
   "scripts": {
     "dev": "next",
     "build": "next build",
-    "start": "next start",
-    "post-update": "yarn upgrade --latest"
+    "start": "next start"
   },
   "dependencies": {
     "@types/node": "14.14.31",
